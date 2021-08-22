@@ -201,7 +201,7 @@ main {
 .img-container::after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  content: "\f10e";
+  content: "\f10e"; /*font Awesomes's code*/
   position: absolute;
   top: 0;
   left: 0;
